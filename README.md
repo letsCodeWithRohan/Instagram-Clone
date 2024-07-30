@@ -16,3 +16,8 @@ Instagram
 |-app.py
 </pre>
 
+<h3>Setup</h3>
+
+```html
+pip install flask flask-mysqldb
+```
