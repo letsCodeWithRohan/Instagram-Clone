@@ -18,6 +18,14 @@ Instagram
 
 <h3>Setup</h3>
 
+<h4>Step-1</h4>
+<p>Create new Folder and create virtual environment</p>
+
+```html
+virtualenv .venv
+```
+#OR#
+
 ```html
 pip install flask flask-mysqldb
 ```
