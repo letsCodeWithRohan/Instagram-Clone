@@ -16,7 +16,7 @@ Instagram
 |-app.py
 </pre>
 
-<h3>Setup</h3>
+## Setup
 
 <h4>Step-1</h4>
 <p>Create new Folder and create virtual environment</p>
@@ -24,7 +24,11 @@ Instagram
 ```html
 virtualenv .venv
 ```
-#OR#
+<p>OR</p>
+
+```python
+python -m venv .venv
+```
 
 ```html
 pip install flask flask-mysqldb
